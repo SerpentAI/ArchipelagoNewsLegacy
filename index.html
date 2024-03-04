@@ -7,127 +7,149 @@
         <title>Archipelago News</title>
         
         <style type="text/css">
-            body{margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0 10px;}
-            h1,h2,h3{line-height:1.2}
+            html,body{margin:0;padding:0}
+            h1,h2,h3{margin-top:0;line-height:1.2;padding-top:10px}
+            :root{--bg:white;--text:#444;--link:#0000EE;--link-visited:#551A8B;}
+            @media(prefers-color-scheme:dark){:root{--bg:#333;--text:#F0F0F0;--link:#7575FF;--link-visited:#9670B9;;}}
+            #color-mode:checked ~ * {--bg:#333;--text:#F0F0F0;--link:#7575FF;--link-visited:#9670B9;}
+            @media (prefers-color-scheme:dark) {#color-mode:checked ~ * {--bg:white;--text:#444;--link:#7575FF;--link-visited:#9670B9;}}
+            .color-scheme-wrapper {min-height: 100vh;background:var(--bg);color:var(--text);}
+            .color-scheme-wrapper a {color:var(--link);}
+            .color-scheme-wrapper a:visited {color:var(--link-visited);}
+            .color-scheme-wrapper div {margin:0 auto;max-width:650px;line-height:1.6;font-size:18px;padding:0 10px;overflow-y:hidden}
+            .light-mode-hide {display:none;}
+            @media (prefers-color-scheme:dark) {.dark-mode-hide {display:none;}}
+            @media (prefers-color-scheme:dark) {.light-mode-hide {display:initial;}}
         </style>
     </head>
 
     <body>
-        <header>
-            <h1>Archipelago News</h1>
-            <p>
-                <a href="index.html">News</a><br/>
-                <a href="apworlds.html">APWorlds</a>
-            </p>
-        </header>
+        <input id="color-mode" type="checkbox" name="color-mode">
+        
+        <label for="color-mode">
+            <span class="dark-mode-hide">Dark Mode</span>
+            <span class="light-mode-hide">Light Mode</span>
+        </label>
 
-        <h2>March 4th, 2024</h2>
+        <div class="color-scheme-wrapper">
+            <div>
+                <header>
+                    <h1 style="padding-top:20px">Archipelago News</h1>
+                    <p>
+                        <a href="index.html">News</a><br/>
+                        <a href="apworlds.html">APWorlds</a>
+                    </p>
+                </header>
 
-        <ul>
-            <li><strong>APWorld Update</strong> Banjo-Tooie [<a href="apworlds.html#BanjoTooie">Link</a>]</li>
-        </ul>
+                <h2>March 4th, 2024</h2>
 
-        <ul>
-            <li><strong>New Manual APWorld</strong> Sky: Children of the Light [<a href="apworlds.html#Manual">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie [<a href="apworlds.html#BanjoTooie">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Manual APWorld Update</strong> Vampire Survivors [<a href="apworlds.html#Manual">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Sky: Children of the Light [<a href="apworlds.html#Manual">Link</a>]</li>
+                </ul>
 
-        <h2>March 3rd, 2024</h2>
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Vampire Survivors [<a href="apworlds.html#Manual">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>APWorld Update</strong> Mario Kart 64 [<a href="apworlds.html#MarioKart64">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Minit [<a href="apworlds.html#Minit">Link</a>]</li>
-        </ul>
+                <h2>March 3rd, 2024</h2>
 
-        <ul>
-            <li><strong>Beta APWorld Update</strong> Super Mario 64 [<a href="apworlds.html#SuperMario64">Link</a>]</li>
-            <li><strong>Beta APWorld Update</strong> Super Mario World [<a href="apworlds.html#SuperMarioWorld">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>APWorld Update</strong> Mario Kart 64 [<a href="apworlds.html#MarioKart64">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Minit [<a href="apworlds.html#Minit">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Core Update Merged</strong> Make <em>!hint</em> only reply to the instigating player [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2339">Link</a>]</li>
-            <li><strong>Core Update Merged</strong> Make Launcher scrollable [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2881">Link</a>]</li>
-            <li><strong>Core Update Merged</strong> Zillion no longer requires ROM for generation [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2875">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Super Mario 64 [<a href="apworlds.html#SuperMario64">Link</a>]</li>
+                    <li><strong>Beta APWorld Update</strong> Super Mario World [<a href="apworlds.html#SuperMarioWorld">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Game Mod Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Core Update Merged</strong> Make <em>!hint</em> only reply to the instigating player [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2339">Link</a>]</li>
+                    <li><strong>Core Update Merged</strong> Make Launcher scrollable [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2881">Link</a>]</li>
+                    <li><strong>Core Update Merged</strong> Zillion no longer requires ROM for generation [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2875">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>New APWorld</strong> Banjo-Tooie [<a href="apworlds.html#BanjoTooie">Link</a>]</li>
-            <li><strong>New APWorld</strong> Vacation Simulator [<a href="apworlds.html#VacationSimulator">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>New Manual APWorld</strong> Animal Crossing New Leaf (Fishing) [<a href="apworlds.html#Manual">Link</a>]</li>
-            <li><strong>New Manual APWorld</strong> Library of Ruina [<a href="apworlds.html#Manual">Link</a>]</li>
-            <li><strong>New Manual APWorld</strong> Neon White [<a href="apworlds.html#Manual">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New APWorld</strong> Banjo-Tooie [<a href="apworlds.html#BanjoTooie">Link</a>]</li>
+                    <li><strong>New APWorld</strong> Vacation Simulator [<a href="apworlds.html#VacationSimulator">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories [<a href="apworlds.html#YuGiOhForbiddenMemories">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Animal Crossing New Leaf (Fishing) [<a href="apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>New Manual APWorld</strong> Library of Ruina [<a href="apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>New Manual APWorld</strong> Neon White [<a href="apworlds.html#Manual">Link</a>]</li>
+                </ul>
 
-        <h2>March 2nd, 2024</h2>
+                <ul>
+                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories [<a href="apworlds.html#YuGiOhForbiddenMemories">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance [<a href="apworlds.html#FinalFantasyTacticsAdvance">Link</a>]</li>
-            <li><strong>APWorld Update</strong> OpenRCT2 [<a href="apworlds.html#OpenRCT2">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Outer Wilds [<a href="apworlds.html#OuterWilds">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Yu-Gi-Oh! Forbidden Memories [<a href="apworlds.html#YuGiOhForbiddenMemories">Link</a>]</li>
-        </ul>
+                <h2>March 2nd, 2024</h2>
 
-        <ul>
-            <li><strong>New APWorld</strong> Astalon: Tears of the Earth [<a href="apworlds.html#AstalonTearsOfTheEarth">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance [<a href="apworlds.html#FinalFantasyTacticsAdvance">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> OpenRCT2 [<a href="apworlds.html#OpenRCT2">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds [<a href="apworlds.html#OuterWilds">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Forbidden Memories [<a href="apworlds.html#YuGiOhForbiddenMemories">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>New Tracker</strong> DLC Quest [<a href="apworlds.html#DLCQuest">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New APWorld</strong> Astalon: Tears of the Earth [<a href="apworlds.html#AstalonTearsOfTheEarth">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Tracker Update</strong> Heretic [<a href="apworlds.html#Heretic">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New Tracker</strong> DLC Quest [<a href="apworlds.html#DLCQuest">Link</a>]</li>
+                </ul>
 
-        <h2>March 1st, 2024</h2>
+                <ul>
+                    <li><strong>Tracker Update</strong> Heretic [<a href="apworlds.html#Heretic">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>APWorld Update</strong> Castlevania 64 [<a href="apworlds.html#Castlevania64">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night [<a href="apworlds.html#CastlevaniaSymphonyOfTheNight">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance [<a href="apworlds.html#FinalFantasyTacticsAdvance">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Lethal Company [<a href="apworlds.html#LethalCompany">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Oracles of Seasons [<a href="apworlds.html#OracleOfSeasons">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Resident Evil 2 Remake [<a href="apworlds.html#ResidentEvil2Remake">Link</a>]</li>
-            <li><strong>APWorld Update</strong> The Guardian Legend [<a href="apworlds.html#TheGuardianLegend">Link</a>]</li>
-            <li><strong>APWorld Update</strong> Zork Grand Inquisitor [<a href="apworlds.html#ZorkGrandInquisitor">Link</a>]</li>
-        </ul>
+                <h2>March 1st, 2024</h2>
 
-        <ul>
-            <li><strong>Beta APWorld Update</strong> Pokemon Emerald [<a href="apworlds.html#PokemonEmerald">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania 64 [<a href="apworlds.html#Castlevania64">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night [<a href="apworlds.html#CastlevaniaSymphonyOfTheNight">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance [<a href="apworlds.html#FinalFantasyTacticsAdvance">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Lethal Company [<a href="apworlds.html#LethalCompany">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Oracles of Seasons [<a href="apworlds.html#OracleOfSeasons">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Resident Evil 2 Remake [<a href="apworlds.html#ResidentEvil2Remake">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> The Guardian Legend [<a href="apworlds.html#TheGuardianLegend">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Zork Grand Inquisitor [<a href="apworlds.html#ZorkGrandInquisitor">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Game Mod Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
-            <li><strong>Game Mod Update</strong> Muse Dash [<a href="apworlds.html#MuseDash">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Pokemon Emerald [<a href="apworlds.html#PokemonEmerald">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>Manual APWorld Update</strong> Generic Manual for Level-Based Games [<a href="apworlds.html#Manual">Link</a>]</li>
-            <li><strong>Manual APWorld Update</strong> Skyrim Special Edition [<a href="apworlds.html#Manual">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hades [<a href="apworlds.html#Hades">Link</a>]</li>
+                    <li><strong>Game Mod Update</strong> Muse Dash [<a href="apworlds.html#MuseDash">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>New APWorld</strong> Mario Kart 64 [<a href="apworlds.html#MarioKart64">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Generic Manual for Level-Based Games [<a href="apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition [<a href="apworlds.html#Manual">Link</a>]</li>
+                </ul>
 
-        <ul>
-            <li><strong>New Manual APWorld</strong> 100% Orange Juice - Online/Custom Mode [<a href="apworlds.html#Manual">Link</a>]</li>
-            <li><strong>New Manual APWorld</strong> Smash Bros Melee (Slippi) [<a href="apworlds.html#Manual">Link</a>]</li>
-        </ul>
+                <ul>
+                    <li><strong>New APWorld</strong> Mario Kart 64 [<a href="apworlds.html#MarioKart64">Link</a>]</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> 100% Orange Juice - Online/Custom Mode [<a href="apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>New Manual APWorld</strong> Smash Bros Melee (Slippi) [<a href="apworlds.html#Manual">Link</a>]</li>
+                </ul>
+            </div>
+        </div>
     </body>
 </html>
