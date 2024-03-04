@@ -22,38 +22,116 @@
         <content type="html">
             <![CDATA[
                 <ul>
-                    <li><strong>APWorld Update</strong> Mario Kart 64 [<a href="/apworlds.html#MarioKart64">Link</a>]</li>
-                    <li><strong>APWorld Update</strong> Minit [<a href="/apworlds.html#Minit">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Mario Kart 64</li>
+                    <li><strong>APWorld Update</strong> Minit</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Beta APWorld Update</strong> Super Mario 64 [<a href="/apworlds.html#SuperMario64">Link</a>]</li>
-                    <li><strong>Beta APWorld Update</strong> Super Mario World [<a href="/apworlds.html#SuperMarioWorld">Link</a>]</li>
+                    <li><strong>Beta APWorld Update</strong> Super Mario 64</li>
+                    <li><strong>Beta APWorld Update</strong> Super Mario World</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Core Update Merged</strong> Make <em>!hint</em> only reply to the instigating player [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2339">Link</a>]</li>
-                    <li><strong>Core Update Merged</strong> Make Launcher scrollable [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2881">Link</a>]</li>
-                    <li><strong>Core Update Merged</strong> Zillion no longer requires ROM for generation [<a href="https://github.com/ArchipelagoMW/Archipelago/pull/2875">Link</a>]</li>
+                    <li><strong>Core Update Merged</strong> Make <em>!hint</em> only reply to the instigating player</li>
+                    <li><strong>Core Update Merged</strong> Make Launcher scrollable</li>
+                    <li><strong>Core Update Merged</strong> Zillion no longer requires ROM for generation</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Game Mod Update</strong> Hades [<a href="/apworlds.html#Hades">Link</a>]</li>
+                    <li><strong>Game Mod Update</strong> Hades</li>
                 </ul>
 
                 <ul>
-                    <li><strong>New APWorld</strong> Banjo-Tooie [<a href="/apworlds.html#BanjoTooie">Link</a>]</li>
-                    <li><strong>New APWorld</strong> Vacation Simulator [<a href="/apworlds.html#VacationSimulator">Link</a>]</li>
+                    <li><strong>New APWorld</strong> Banjo-Tooie</li>
+                    <li><strong>New APWorld</strong> Vacation Simulator</li>
                 </ul>
 
                 <ul>
-                    <li><strong>New Manual APWorld</strong> Animal Crossing New Leaf (Fishing) [<a href="/apworlds.html#Manual">Link</a>]</li>
-                    <li><strong>New Manual APWorld</strong> Library of Ruina [<a href="/apworlds.html#Manual">Link</a>]</li>
-                    <li><strong>New Manual APWorld</strong> Neon White [<a href="/apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>New Manual APWorld</strong> Animal Crossing New Leaf (Fishing)</li>
+                    <li><strong>New Manual APWorld</strong> Library of Ruina</li>
+                    <li><strong>New Manual APWorld</strong> Neon White</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories [<a href="/apworlds.html#YuGiOhForbiddenMemories">Link</a>]</li>
+                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>March 2nd, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240302" rel="alternate" type="text/html" title="March 2nd, 2024"/>
+        <updated>2024-03-03T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240302</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 2nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
+                    <li><strong>APWorld Update</strong> OpenRCT2</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds</li>
+                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Astalon: Tears of the Earth</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> DLC Quest</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Heretic</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
+        <title>March 1st, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240301" rel="alternate" type="text/html" title="March 1st, 2024"/>
+        <updated>2024-03-02T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240301</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 1st, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania 64</li>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
+                    <li><strong>APWorld Update</strong> Hades</li>
+                    <li><strong>APWorld Update</strong> Lethal Company</li>
+                    <li><strong>APWorld Update</strong> Oracles of Seasons</li>
+                    <li><strong>APWorld Update</strong> Resident Evil 2 Remake</li>
+                    <li><strong>APWorld Update</strong> The Guardian Legend</li>
+                    <li><strong>APWorld Update</strong> Zork Grand Inquisitor</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Pokemon Emerald</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Hades</li>
+                    <li><strong>Game Mod Update</strong> Muse Dash</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Generic Manual for Level-Based Games</li>
+                    <li><strong>Manual APWorld Update</strong> Skyrim Special Edition</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Mario Kart 64</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> 100% Orange Juice - Online/Custom Mode</li>
+                    <li><strong>New Manual APWorld</strong> Smash Bros Melee (Slippi)</li>
                 </ul>
             ]]>
         </content>
