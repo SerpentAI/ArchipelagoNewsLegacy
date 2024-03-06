@@ -10,9 +10,83 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-03-05T00:00:00-05:00</updated>
+    <updated>2024-03-06T00:00:00-05:00</updated>
 
-        <entry>
+    <entry>
+        <title>March 5th, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240305" rel="alternate" type="text/html" title="March 5th, 2024"/>
+        <updated>2024-03-06T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240305</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 5th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
+                    <li><strong>APWorld Update</strong> Lethal Company</li>
+                    <li><strong>APWorld Update</strong> Monster Sanctuary</li>
+                    <li><strong>APWorld Update</strong> Vacation Simulator</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Beta APWorld Update</strong> Super Mario 64</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                    <li><strong>Game Mod Update</strong> Monster Sanctuary</li>
+                    <li><strong>Game Mod Update</strong> Risk of Rain</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update Merged</strong> Muse Dash: <em>Support 4.1.0 songs</em></li>
+                    <li><strong>Game Update Merged</strong> Pokemon Red and Blue: <em>Big Door Shuffle Update</em></li>
+                    <li><strong>Game Update Merged</strong> The Witness: <em>Laser Hints</em></li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Library of Ruina</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Mega Man X3</li>
+                    <li><strong>New APWorld</strong> Psychonauts</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta APWorld</strong> Lingo</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Game Mod</strong> Lingo</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Beta Tracker</strong> Lingo</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Game Merged</strong> Celeste 64</li>
+                    <li><strong>New Game Merged</strong> Kirby's Dream Land 3</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Sea of Thieves (Fishing)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Oracle of Seasons</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Final Fantasy Mystic Quest</li>
+                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
         <title>March 4th, 2024</title>
         <link href="https://apnews.serpent.ai/index.html#D20240304" rel="alternate" type="text/html" title="March 4th, 2024"/>
         <updated>2024-03-05T00:00:00-05:00</updated>
@@ -52,7 +126,6 @@
         </content>
     </entry>
 
-  
     <entry>
         <title>March 3rd, 2024</title>
         <link href="https://apnews.serpent.ai/index.html#D20240303" rel="alternate" type="text/html" title="March 3rd, 2024"/>
