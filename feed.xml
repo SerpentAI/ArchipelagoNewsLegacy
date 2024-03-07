@@ -22,23 +22,27 @@
         <content type="html">
             <![CDATA[
                 <ul>
-                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga [<a href="apworlds.html#MarioAndLuigiSuperstarSaga">Link</a>]</li>
+                    <li><strong>APWorld Update</strong> Mario and Luigi Superstar Saga</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Beta APWorld Update</strong> Pokemon Emerald [<a href="apworlds.html#PokemonEmerald">Link</a>]</li>
+                    <li><strong>Beta APWorld Update</strong> Pokemon Emerald</li>
                 </ul>
 
                 <ul>
-                    <li><strong>Manual APWorld Update</strong> Pokemon Showdown [<a href="apworlds.html#Manual">Link</a>]</li>
+                    <li><strong>Game Mod Update</strong> ULTRAKILL</li>
                 </ul>
 
                 <ul>
-                    <li><strong>New APWorld</strong> Super Mario Sunshine [<a href="apworlds.html#SuperMarioSunshine">Link</a>]</li>
+                    <li><strong>Manual APWorld Update</strong> Pokemon Showdown</li>
                 </ul>
 
                 <ul>
-                    <li><strong>New Tracker</strong> Castlevania: Symphony of the Night [<a href="apworlds.html#CastlevaniaSymphonyOfTheNight">Link</a>]</li>
+                    <li><strong>New APWorld</strong> Super Mario Sunshine</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Castlevania: Symphony of the Night</li>
                 </ul>
             ]]>
         </content>
