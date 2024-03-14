@@ -10,7 +10,36 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-03-13T00:00:00-05:00</updated>
+    <updated>2024-03-14T00:00:00-05:00</updated>
+
+    <entry>
+        <title>March 13th, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240313" rel="alternate" type="text/html" title="March 13th, 2024"/>
+        <updated>2024-03-14T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240313</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 13th, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Final Fantasy Tactics Advance</li>
+                    <li><strong>APWorld Update</strong> Rabi-Ribi</li>
+                    <li><strong>APWorld Update</strong> ZQuest Classic: Link's Grand Adventure 3</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Bomb Rush Cyberfunk</li>
+                    <li><strong>Game Mod Update</strong> Rabi-Ribi</li>
+                    <li><strong>Game Mod Update</strong> ZQuest Classic: Link's Grand Adventure 3</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Update Merged</strong> Hollow Knight: <em>Remove non-randomized items from pool</em></li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>March 12th, 2024</title>
