@@ -10,7 +10,38 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-03-22T00:00:00-05:00</updated>
+    <updated>2024-03-23T00:00:00-05:00</updated>
+
+    <entry>
+        <title>March 22nd, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240322" rel="alternate" type="text/html" title="March 22nd, 2024"/>
+        <updated>2024-03-23T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240322</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 22nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>AP Release Candidate</strong> 0.4.5 RC2</li>
+                </ul>
+
+                <ul>
+                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
+                    <li><strong>APWorld Update</strong> Oracle of Seasons</li>
+                    <li><strong>APWorld Update</strong> osu!</li>
+                    <li><strong>APWorld Update</strong> Wario Land 4</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Game Merged</strong> Yoshi's Island</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Oracle of Seasons</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>March 21st, 2024</title>
