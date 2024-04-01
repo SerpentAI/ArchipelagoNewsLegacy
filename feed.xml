@@ -10,7 +10,41 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-03-31T00:00:00-05:00</updated>
+    <updated>2024-04-01T00:00:00-05:00</updated>
+
+    <entry>
+        <title>March 31st, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240331" rel="alternate" type="text/html" title="March 31st, 2024"/>
+        <updated>2024-04-01T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240331</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for March 31st, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                    <li><strong>APWorld Update</strong> TUNIC</li>
+                    <li><strong>APWorld Update</strong> Wario Land 1</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Stardew Valley</li>
+                    <li><strong>Game Mod Update</strong> The Messenger</li>
+                    <li><strong>Game Mod Update</strong> TUNIC</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Halo: Reach</li>
+                    <li><strong>New Manual APWorld</strong> Mario Kart Wii</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> A Link to the Past</li>
+                    <li><strong>Tracker Update</strong> Super Junkoid (Super Metroid Hack)</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>March 30th, 2024</title>
