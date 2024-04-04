@@ -10,7 +10,42 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-03T00:00:00-05:00</updated>
+    <updated>2024-04-04T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 3rd, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240403" rel="alternate" type="text/html" title="April 3rd, 2024"/>
+        <updated>2024-04-04T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240403</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 3rd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Castlevania: Symphony of the Night</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> ChecksFinder</li>
+                    <li><strong>Game Mod Update</strong> Lingo</li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New APWorld</strong> Paper Mario 64</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> Dragon Ball Z: Budokai 3</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> Lingo</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 2nd, 2024</title>
@@ -1184,46 +1219,6 @@
                 <ul>
                     <li><strong>Tracker Update</strong> Final Fantasy Mystic Quest</li>
                     <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 4th, 2024</title>
-        <link href="https://apnews.serpent.ai/index.html#D20240304" rel="alternate" type="text/html" title="March 4th, 2024"/>
-        <updated>2024-03-05T00:00:00-05:00</updated>
-        <id>https://apnews.serpent.ai/index.html#D20240304</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 4th, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Banjo-Tooie</li>
-                    <li><strong>APWorld Update</strong> Bomb Rush Cyberfunk</li>
-                    <li><strong>APWorld Update</strong> Final Fantasy 5 Career Day</li>
-                    <li><strong>APWorld Update</strong> OpenRCT2</li>
-                    <li><strong>APWorld Update</strong> Reventure</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Bomb Rush Cyberfunk</li>
-                    <li><strong>Game Mod Update</strong> OpenRCT2</li>
-                    <li><strong>Game Mod Update</strong> Reventure</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Sky: Children of the Light</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Tracker</strong> Super Junkoid (Super Metroid Hack)</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Manual APWorld Update</strong> Banjo-Kazooie</li>
-                    <li><strong>Manual APWorld Update</strong> Pokemon Legends Arceus</li>
-                    <li><strong>Manual APWorld Update</strong> Vampire Survivors</li>
                 </ul>
             ]]>
         </content>
