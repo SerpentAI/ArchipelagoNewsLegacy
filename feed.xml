@@ -10,7 +10,59 @@
 
     <author><name>Serpent.AI</name></author>
 
-    <updated>2024-04-02T00:00:00-05:00</updated>
+    <updated>2024-04-03T00:00:00-05:00</updated>
+
+    <entry>
+        <title>April 2nd, 2024</title>
+        <link href="https://apnews.serpent.ai/index.html#D20240402" rel="alternate" type="text/html" title="April 2nd, 2024"/>
+        <updated>2024-04-03T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html#D20240402</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Archipelago News for April 2nd, 2024</summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+                    <li><strong>APWorld Update</strong> Astalon: Tears of the Earth</li>
+                    <li><strong>APWorld Update</strong> Hades</li>
+                    <li><strong>APWorld Update</strong> Lethal Company</li>
+                    <li><strong>APWorld Update</strong> Outer Wilds</li>
+                    <li><strong>APWorld Update</strong> Psychonauts</li>
+                    <li><strong>APWorld Update</strong> Scooby-Doo! Night of 100 Frights</li>
+                    <li><strong>APWorld Update</strong> Super Mario Sunshine</li>
+                    <li><strong>APWorld Update</strong> Yacht Dice (Yahtzee)</li>
+                    <li><strong>APWorld Update</strong> Yu-Gi-Oh! Ultimate Masters: WCT 2006</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Game Mod Update</strong> Astalon: Tears of the Earth</li>
+                    <li><strong>Game Mod Update</strong> ChecksFinder</li>
+                    <li><strong>Game Mod Update</strong> Hades</li>
+                    <li><strong>Game Mod Update</strong> Lethal Company</li>
+                    <li><strong>Game Mod Update</strong> Outer Wilds</li>
+                    <li><strong>Game Mod Update</strong> Psychonauts</li>
+                    <li><strong>Game Mod Update</strong> Satisfactory</li>
+                    <li><strong>Game Mod Update</strong> Yacht Dice (Yahtzee)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Manual APWorld Update</strong> Last Dream Fishing Arcade</li>
+                    <li><strong>Manual APWorld Update</strong> New Super Mario Bros DS</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Manual APWorld</strong> RuneScape (Fishing)</li>
+                </ul>
+
+                <ul>
+                    <li><strong>New Tracker</strong> Astalon: Tears of the Earth</li>
+                </ul>
+
+                <ul>
+                    <li><strong>Tracker Update</strong> The Wind Waker</li>
+                </ul>
+            ]]>
+        </content>
+    </entry>
 
     <entry>
         <title>April 1st, 2024</title>
@@ -1172,53 +1224,6 @@
                     <li><strong>Manual APWorld Update</strong> Banjo-Kazooie</li>
                     <li><strong>Manual APWorld Update</strong> Pokemon Legends Arceus</li>
                     <li><strong>Manual APWorld Update</strong> Vampire Survivors</li>
-                </ul>
-            ]]>
-        </content>
-    </entry>
-
-    <entry>
-        <title>March 3rd, 2024</title>
-        <link href="https://apnews.serpent.ai/index.html#D20240303" rel="alternate" type="text/html" title="March 3rd, 2024"/>
-        <updated>2024-03-04T00:00:00-05:00</updated>
-        <id>https://apnews.serpent.ai/index.html#D20240303</id>
-        <author><name>Serpent.AI</name></author>
-        <summary>Archipelago News for March 3rd, 2024</summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-                    <li><strong>APWorld Update</strong> Mario Kart 64</li>
-                    <li><strong>APWorld Update</strong> Minit</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Beta APWorld Update</strong> Super Mario 64</li>
-                    <li><strong>Beta APWorld Update</strong> Super Mario World</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Core Update Merged</strong> Make <em>!hint</em> only reply to the instigating player</li>
-                    <li><strong>Core Update Merged</strong> Make Launcher scrollable</li>
-                    <li><strong>Core Update Merged</strong> Zillion no longer requires ROM for generation</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Game Mod Update</strong> Hades</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New APWorld</strong> Banjo-Tooie</li>
-                    <li><strong>New APWorld</strong> Vacation Simulator</li>
-                </ul>
-
-                <ul>
-                    <li><strong>New Manual APWorld</strong> Animal Crossing New Leaf (Fishing)</li>
-                    <li><strong>New Manual APWorld</strong> Library of Ruina</li>
-                    <li><strong>New Manual APWorld</strong> Neon White</li>
-                </ul>
-
-                <ul>
-                    <li><strong>Tracker Update</strong> Yu-Gi-Oh! Forbidden Memories</li>
                 </ul>
             ]]>
         </content>
