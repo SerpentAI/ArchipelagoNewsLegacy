@@ -13,6 +13,20 @@
     <updated>2024-04-05T00:00:00-05:00</updated>
 
     <entry>
+        <title>Feed Has Moved</title>
+        <link href="https://apnews.serpent.ai" rel="alternate" type="text/html" title="Feed Has Moved"/>
+        <updated>2024-04-06T00:00:00-05:00</updated>
+        <id>https://apnews.serpent.ai/index.html</id>
+        <author><name>Serpent.AI</name></author>
+        <summary>Feed Has Moved</summary>
+        <content type="html">
+            <![CDATA[
+                <p>Feed has moved. Please use the one on https://multiworld.news to keep receiving updates</p>
+            ]]>
+        </content>
+    </entry>
+
+    <entry>
         <title>April 4th, 2024</title>
         <link href="https://apnews.serpent.ai/index.html#D20240404" rel="alternate" type="text/html" title="April 4th, 2024"/>
         <updated>2024-04-05T00:00:00-05:00</updated>
